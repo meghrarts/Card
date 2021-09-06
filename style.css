@@ -86,7 +86,6 @@ a{
     background-color: #ff104c;
     border-radius: 10px;
     color: #fff;
-    width: 310px;
 }
 
 .m{
@@ -116,11 +115,7 @@ a{
     .tx{
         margin-left: 60px;
     }
-    .bt:hover{
-    background-color: #ff104c;
-    border-radius: 10px;
-    color: #fff;
-    width: 470px;
+ 
 }
 }
 
