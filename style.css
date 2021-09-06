@@ -72,7 +72,7 @@ a{
 }
 
 .bt{
-    width: 330px;
+    width: 300px;
     height: 60px;
     color: #ff104c;
     background-color: #fff6f6;
@@ -86,7 +86,7 @@ a{
     background-color: #ff104c;
     border-radius: 10px;
     color: #fff;
-    width: 390px;
+    width: 310px;
 }
 
 .m{
@@ -97,7 +97,7 @@ a{
 .m:hover{
     color: #ff104c;
     background-color: #fff6f6;
-    width: 390px;
+    width: 310px;
 }
 
 
